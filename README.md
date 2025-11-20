@@ -10,3 +10,5 @@
 
 [Assignment](https://github.com/RafaelCaalam/Caalam_Rafael_SalaryPrediction/blob/main/Caalam_Rafael_SalaryPredicition.ipynb) #DESCRIPTION: Assignment Salary Prediction
 
+[MachineLearning1](https://github.com/RafaelCaalam/Machine-Learning-Exercise1/blob/main/Machine_Learning_Exercise1.ipynb) #DESCRIPTIOn: Excercise LinearRegression
+
