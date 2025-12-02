@@ -12,5 +12,7 @@
 
 [MachineLearning1](https://github.com/RafaelCaalam/Machine-Learning-Exercise1/blob/main/Machine_Learning_Exercise1.ipynb) #DESCRIPTIOn: Excercise DecisionTree 
 
+[MachineLearning2](https://github.com/RafaelCaalam/Caalam_LinearRegression/blob/main/caalam_LogisticRegression.ipynb) #DESCRIPTION: Excercise LogisticRegression
+
 
 
