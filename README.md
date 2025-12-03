@@ -14,5 +14,7 @@
 
 [MachineLearning2](https://github.com/RafaelCaalam/Caalam_LinearRegression/blob/main/caalam_LogisticRegression.ipynb) #DESCRIPTION: Excercise LogisticRegression
 
+[PowerBiExercise](https://github.com/RafaelCaalam/powerbi/tree/main) #DESCRIPTION: Power Bi 10 Insight Exercise
+
 
 
